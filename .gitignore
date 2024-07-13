@@ -1,0 +1,23 @@
+.next/
+
+# Dependency dizinleri
+node_modules/
+
+# Çevre dosyaları
+.env
+
+# Yapı ürünleri
+/dist
+/build
+
+# IDE ayarları
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Log dosyaları
+*.log
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
